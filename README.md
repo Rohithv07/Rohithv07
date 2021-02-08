@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Rohith, Fullstack Trainee from <b>Kerala, India</b>, currently living in <b>Palakkad, Kerala</b>. </p>
+<p>Welcome to my page! </br> I'm Rohith, Fullstack Trainee, at Cognizant from <b>Kerala, India</b>, currently living in <b>Palakkad, Kerala</b>. </p>
 <h3>Things I code and Languages using</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-Java-blue" />
@@ -63,7 +63,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Rohithv07/LeetCodeTopInterviewQuestions?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rohithv07/LeetCodeTopInterviewQuestions?style=flat-square&labelColor=343b41"/></td>
     </tr>
-
   </tbody>
 </table>
 <h3>My latest posts</h3>

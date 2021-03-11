@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Rohith, Fullstack Trainee from <b>Kerala, India</b>, currently living in <b>Palakkad, Kerala</b>. </p>
+<p>Welcome to my page! </br> I'm Rohith, Fullstack Trainee, at Cognizant from <b>Kerala, India</b>, currently living in <b>Palakkad, Kerala</b>. </p>
 <h3>Things I code and Languages using</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-Java-blue" />
@@ -35,12 +35,12 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Rohithv07/PORTFO?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rohithv07/PORTFO?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/Rohithv07/todowebapp"><b>Todo Web App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rohithv07/todowebapp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rohithv07/todowebapp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rohithv07/todowebapp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rohithv07/todowebapp?style=flat-square&labelColor=343b41"/></td>
+	  <tr>
+      <td><a href="https://github.com/Rohithv07/Java-Learning/tree/master/1_LEARNING_PATH_FSE/SpringLearning/Springboot/todoWebApp/todowebapp"><b>Todo Webapp Using Spring Boot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rohithv07/Java-Learning?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rohithv07/Java-Learning?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rohithv07/Java-Learning?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rohithv07/Java-Learning?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Rohithv07/6WeekPro"><b>Cat Vs Dog Classification</b></a></td>
@@ -79,4 +79,4 @@
 <h3>My Website</h3>
 <p><a href = "http://rohithvazhathody.pythonanywhere.com"><img alt="website" src="https://img.shields.io/badge/My%20Website-Click%20Here-blue"</a>
 </p>
- 
+

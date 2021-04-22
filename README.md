@@ -71,6 +71,11 @@
   <li><a href="https://medium.com/analytics-vidhya/what-about-a-6-week-machine-learning-project-fd947e46c4a2?sk=32fa5b4d05b0ab0d791be90af1b8b6b6"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> What About a 6-Week Machine Learning Project? Beginners Friendly Cat vs Dog Classification Problem.(Week 5)</b></a><br/><i>A machine learning project in 6 weeks - Week 5</i></li>
   <li><a href="https://dev.to/rohithv07/how-to-convert-a-file-to-zip-format-through-terminal-in-ubuntu-9km"><b>How to convert a file to zip format through Terminal in Ubuntu</b></a><br/><i>Going through 'zip' command.</i></li>
   <li><a href="https://dev.to/rohithv07/possible-error-when-we-have-both-javac-11-0-9-1-and-javac-8-29b5"><b>Possible Error when we have both javac 11.0.9.1 and javac 8</b></a><br/><i>Going through an error I encountered.</i></li>
+<li><a href="https://dev.to/rohithv07/driver-class-not-found-com-sap-cloud-db-jdbc-driver-5fmb"><b>Driver Class Not Found Error SAP Cloud</i></li>
+<li><a href="https://dev.to/rohithv07/angular-learning-2koi"><b>Angular Learning 1</i></li>
+<li><a href="https://dev.to/rohithv07/angular-learning-ep0"><b>Angular Learnng 2</i></li>
+<li><a href="https://dev.to/rohithv07/angular-learning-1med"><b>Angular Learnng 3</i></li>
+
   
 </ul>
 <h3>Where to find me</h3>

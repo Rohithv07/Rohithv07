@@ -80,3 +80,11 @@
 <p><a href = "http://rohithvazhathody.pythonanywhere.com"><img alt="website" src="https://img.shields.io/badge/My%20Website-Click%20Here-blue"</a>
 </p>
 
+<h3 align="left">Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithv07" alt="waqar-107" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohithv07&show_icons=true&count_private=true" alt="Rohithv07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohithv07&show_icons=true&count_private=true&custom_title=All time Stats&include_all_commits=true" alt="Rohithv07" /></p>
+

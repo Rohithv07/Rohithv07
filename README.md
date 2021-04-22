@@ -57,11 +57,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rohithv07/LeetCode?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Rohithv07/LeetCodeTopInterviewQuestions"><b>Interview Prep</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rohithv07/LeetCodeTopInterviewQuestions?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rohithv07/LeetCodeTopInterviewQuestions?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rohithv07/LeetCodeTopInterviewQuestions?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rohithv07/LeetCodeTopInterviewQuestions?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Rohithv07/LeetCodeTopInterviewQuestions"><b>Food Item Angular</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rohithv07/Fooditem-Angular-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rohithv07/Fooditem-Angular-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rohithv07/Fooditem-Angular-App?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rohithv07/Fooditem-Angular-App?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>

@@ -72,9 +72,9 @@
   <li><a href="https://dev.to/rohithv07/how-to-convert-a-file-to-zip-format-through-terminal-in-ubuntu-9km"><b>How to convert a file to zip format through Terminal in Ubuntu</b></a><br/><i>Going through 'zip' command.</i></li>
   <li><a href="https://dev.to/rohithv07/possible-error-when-we-have-both-javac-11-0-9-1-and-javac-8-29b5"><b>Possible Error when we have both javac 11.0.9.1 and javac 8</b></a><br/><i>Going through an error I encountered.</i></li>
 <li><a href="https://dev.to/rohithv07/driver-class-not-found-com-sap-cloud-db-jdbc-driver-5fmb"><b>Driver Class Not Found Error SAP Cloud</i></li>
-<li><a href="https://dev.to/rohithv07/angular-learning-2koi"><b>Angular Learning 1</i>Learning Angular Framework basics and documenting my understandng</li>
-<li><a href="https://dev.to/rohithv07/angular-learning-ep0"><b>Angular Learnng 2</i>Learning Angular Framework basics and documenting my understandng</li>
-<li><a href="https://dev.to/rohithv07/angular-learning-1med"><b>Angular Learnng 3</i>Learning Angular Framework basics and documenting my understandng</li>
+	<li><a href="https://dev.to/rohithv07/angular-learning-2koi"><b>Angular Learning 1</b> Learning Angular Framework basics and documenting my understandng</i></li>
+<li><a href="https://dev.to/rohithv07/angular-learning-ep0"><b>Angular Learnng 2 </b> Learning Angular Framework basics and documenting my understandng</i>Learning Angular Framework basics and documenting my understandng</li>
+<li><a href="https://dev.to/rohithv07/angular-learning-1med"><b>Angular Learnng 3 </b> Learning Angular Framework basics and documenting my understandng</i>Learning Angular Framework basics and documenting my understandng</li>
 
   
 </ul>

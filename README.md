@@ -13,6 +13,7 @@
   <img alt="Datastructure" src="https://img.shields.io/badge/Datastructure-Datastructure-yellowgreen" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-bootstrap-yellow" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Machine%20Learning-Machine%20Learning-blue" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-Angular-red" />
 
   
 </p>

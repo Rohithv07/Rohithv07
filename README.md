@@ -80,7 +80,6 @@
 - [Trie Data Structure - Insert Operation](https://dev.to/rohithv07/trie-data-structure-insert-operation-253g)
 	
 - [984 : String Without AAA or BBB - Leetcode Medium](https://dev.to/rohithv07/984-string-without-aaa-or-bbb-leetcode-medium-1e4n)
-	
 <!-- BLOG-POST-LIST:END -->
 	
 

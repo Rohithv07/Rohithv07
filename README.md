@@ -70,11 +70,11 @@
 <ul>
 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Answer by Rohith V for What makes overflow in leetcode #695 Max Area Island](https://stackoverflow.com/questions/67656497/what-makes-overflow-in-leetcode-695-max-area-island/67656771#67656771)
-- [Answer by Rohith V for How can I replace string in for loop using the index](https://stackoverflow.com/questions/67635677/how-can-i-replace-string-in-for-loop-using-the-index/67635769#67635769)
-- [Answer by Rohith V for Java - Get the first Thursday of the month](https://stackoverflow.com/questions/67635122/java-get-the-first-thursday-of-the-month/67635295#67635295)
-- [Answer by Rohith V for How to uninstall/upgrade Angular CLI?](https://stackoverflow.com/questions/39566257/how-to-uninstall-upgrade-angular-cli/67635022#67635022)
-- [Dynamically adding new text box after button press is not working - Angular](https://stackoverflow.com/questions/67630939/dynamically-adding-new-text-box-after-button-press-is-not-working-angular)
+- [Setting a .travis.yml file for a react app test](https://dev.to/rohithv07/setting-a-travis-yml-file-for-a-react-app-test-27o9)
+- [Restart Policies Docker Compose](https://dev.to/rohithv07/restart-policies-docker-compose-2c14)
+- [Beginners Introduction to Dockerfile](https://dev.to/rohithv07/beginners-introduction-to-dockerfile-2kek)
+- [Trie Data Structure - Insert Operation](https://dev.to/rohithv07/trie-data-structure-insert-operation-253g)
+- [984 : String Without AAA or BBB - Leetcode Medium](https://dev.to/rohithv07/984-string-without-aaa-or-bbb-leetcode-medium-1e4n)
 <!-- BLOG-POST-LIST:END -->
 	
 

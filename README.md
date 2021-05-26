@@ -82,11 +82,11 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
+- [Answer by Rohith V for How to prevent my code from rewriting values in the same index numbers in the following code](https://stackoverflow.com/questions/67704005/how-to-prevent-my-code-from-rewriting-values-in-the-same-index-numbers-in-the-fo/67704213#67704213)
 - [Answer by Rohith V for H2 No suitable driver found for jdbc:h2:mem:](https://stackoverflow.com/questions/67673707/h2-no-suitable-driver-found-for-jdbch2mem/67673862#67673862)
 - [Answer by Rohith V for What makes overflow in leetcode #695 Max Area Island](https://stackoverflow.com/questions/67656497/what-makes-overflow-in-leetcode-695-max-area-island/67656771#67656771)
 - [Answer by Rohith V for How can I replace string in for loop using the index](https://stackoverflow.com/questions/67635677/how-can-i-replace-string-in-for-loop-using-the-index/67635769#67635769)
 - [Answer by Rohith V for Java - Get the first Thursday of the month](https://stackoverflow.com/questions/67635122/java-get-the-first-thursday-of-the-month/67635295#67635295)
-- [Answer by Rohith V for How to uninstall/upgrade Angular CLI?](https://stackoverflow.com/questions/39566257/how-to-uninstall-upgrade-angular-cli/67635022#67635022)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

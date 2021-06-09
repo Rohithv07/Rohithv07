@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes : A quick walkthrough on Important Takeaways](https://dev.to/rohithv07/kubernetes-a-quick-walkthrough-on-important-takeaways-4jng)
 - [Jumping Numbers](https://dev.to/rohithv07/jumping-numbers-44ob)
 - [Leetcode 1268 : Search Suggestions System (Trie Approach)](https://dev.to/rohithv07/leetcode-1268-search-suggestions-system-trie-approach-42p7)
 - [Leetcode 150. Evaluate Reverse Polish Notation](https://dev.to/rohithv07/150-evaluate-reverse-polish-notation-2pm5)
 - [Setting a .travis.yml file for a react app test](https://dev.to/rohithv07/setting-a-travis-yml-file-for-a-react-app-test-27o9)
-- [Restart Policies Docker Compose](https://dev.to/rohithv07/restart-policies-docker-compose-2c14)
 <!-- BLOG-POST-LIST:END -->
 	
 

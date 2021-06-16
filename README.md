@@ -82,11 +82,11 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
+- [Answer by Rohith V for Java giving error when trying to use multiple inputs in while loop](https://stackoverflow.com/questions/68004484/java-giving-error-when-trying-to-use-multiple-inputs-in-while-loop/68004697#68004697)
 - [Answer by Rohith V for Distinct character SET of substring in string](https://stackoverflow.com/questions/67773674/distinct-character-set-of-substring-in-string/67773781#67773781)
 - [Answer by Rohith V for TLE in find number of Island (GFG)](https://stackoverflow.com/questions/67750055/tle-in-find-number-of-island-gfg/67751011#67751011)
 - [Answer by Rohith V for How to prevent my code from rewriting values in the same index numbers in the following code](https://stackoverflow.com/questions/67704005/how-to-prevent-my-code-from-rewriting-values-in-the-same-index-numbers-in-the-fo/67704213#67704213)
 - [Answer by Rohith V for H2 No suitable driver found for jdbc:h2:mem:](https://stackoverflow.com/questions/67673707/h2-no-suitable-driver-found-for-jdbch2mem/67673862#67673862)
-- [Answer by Rohith V for What makes overflow in leetcode #695 Max Area Island](https://stackoverflow.com/questions/67656497/what-makes-overflow-in-leetcode-695-max-area-island/67656771#67656771)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

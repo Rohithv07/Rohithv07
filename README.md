@@ -82,11 +82,11 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
+- [Answer by Rohith V for How to validate the selected data based on the column name using Angular](https://stackoverflow.com/questions/68033504/how-to-validate-the-selected-data-based-on-the-column-name-using-angular/68033906#68033906)
 - [Answer by Rohith V for Date conversion in angular](https://stackoverflow.com/questions/68015961/date-conversion-in-angular/68016112#68016112)
 - [Answer by Rohith V for Java giving error when trying to use multiple inputs in while loop](https://stackoverflow.com/questions/68004484/java-giving-error-when-trying-to-use-multiple-inputs-in-while-loop/68004697#68004697)
 - [Answer by Rohith V for Distinct character SET of substring in string](https://stackoverflow.com/questions/67773674/distinct-character-set-of-substring-in-string/67773781#67773781)
 - [Answer by Rohith V for TLE in find number of Island (GFG)](https://stackoverflow.com/questions/67750055/tle-in-find-number-of-island-gfg/67751011#67751011)
-- [Answer by Rohith V for How to prevent my code from rewriting values in the same index numbers in the following code](https://stackoverflow.com/questions/67704005/how-to-prevent-my-code-from-rewriting-values-in-the-same-index-numbers-in-the-fo/67704213#67704213)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

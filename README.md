@@ -82,11 +82,11 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
+- [Answer by Rohith V for Or operator. Why the result is true? in: While ( n < O | | n> 8 ) n=5](https://stackoverflow.com/questions/68052796/or-operator-why-the-result-is-true-in-while-n-o-n-8-n-5/68052867#68052867)
 - [Answer by Rohith V for Check how many character need to be deleted to make an anagram in Python](https://stackoverflow.com/questions/68043856/check-how-many-character-need-to-be-deleted-to-make-an-anagram-in-python/68044149#68044149)
 - [Answer by Rohith V for How to validate the selected data based on the column name using Angular](https://stackoverflow.com/questions/68033504/how-to-validate-the-selected-data-based-on-the-column-name-using-angular/68033906#68033906)
 - [Answer by Rohith V for Date conversion in angular](https://stackoverflow.com/questions/68015961/date-conversion-in-angular/68016112#68016112)
 - [Answer by Rohith V for Java giving error when trying to use multiple inputs in while loop](https://stackoverflow.com/questions/68004484/java-giving-error-when-trying-to-use-multiple-inputs-in-while-loop/68004697#68004697)
-- [Answer by Rohith V for Distinct character SET of substring in string](https://stackoverflow.com/questions/67773674/distinct-character-set-of-substring-in-string/67773781#67773781)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

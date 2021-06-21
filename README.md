@@ -82,7 +82,7 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
-- [Answer by Rohith V for Do built-in methods take O(1) time?](https://stackoverflow.com/questions/68058828/do-built-in-methods-take-o1-time/68059151#68059151)
+- [Answer by Rohith V for Complexity of built-in methods like list.count(). Do they take O(1) time?](https://stackoverflow.com/questions/68058828/complexity-of-built-in-methods-like-list-count-do-they-take-o1-time/68059151#68059151)
 - [Answer by Rohith V for why does it go into an infinite loop?](https://stackoverflow.com/questions/68056770/why-does-it-go-into-an-infinite-loop/68056835#68056835)
 - [Answer by Rohith V for Please help me with this program (vowel count) I am a beginner in python](https://stackoverflow.com/questions/68052853/please-help-me-with-this-program-vowel-count-i-am-a-beginner-in-python/68052893#68052893)
 - [Answer by Rohith V for Or operator. Why the result is true? in: While ( n < O | | n> 8 ) n=5](https://stackoverflow.com/questions/68052796/or-operator-why-the-result-is-true-in-while-n-o-n-8-n-5/68052867#68052867)

@@ -83,10 +83,10 @@
 	
 <!-- STACKOVERFLOW:START -->
 - [Why the entity class is showing pmd warning "Class is suspected to be a DataClass"](https://stackoverflow.com/questions/68222637/why-the-entity-class-is-showing-pmd-warning-class-is-suspected-to-be-a-dataclas)
-- [Answer by Rohith V for How does output =-5 with Java code snippet](https://stackoverflow.com/questions/68180010/how-does-output-5-with-java-code-snippet/68180234#68180234)
 - [Answer by Rohith V for How to sort an alpha numeric list in python?](https://stackoverflow.com/questions/68177058/how-to-sort-an-alpha-numeric-list-in-python/68177171#68177171)
 - [Answer by Rohith V for Complexity of built-in methods like list.count(). Do they take O(1) time?](https://stackoverflow.com/questions/68058828/complexity-of-built-in-methods-like-list-count-do-they-take-o1-time/68059151#68059151)
 - [Answer by Rohith V for why does it go into an infinite loop?](https://stackoverflow.com/questions/68056770/why-does-it-go-into-an-infinite-loop/68056835#68056835)
+- [Answer by Rohith V for Please help me with this program (vowel count) I am a beginner in python](https://stackoverflow.com/questions/68052853/please-help-me-with-this-program-vowel-count-i-am-a-beginner-in-python/68052893#68052893)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

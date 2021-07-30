@@ -82,11 +82,11 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
+- [Why only the logout button disappears after refresh even if the logged in user is stored in localstorage](https://stackoverflow.com/questions/68586960/why-only-the-logout-button-disappears-after-refresh-even-if-the-logged-in-user-i)
 - [Answer by Rohith V for Reverse a sub list](https://stackoverflow.com/questions/68534875/reverse-a-sub-list/68535213#68535213)
 - [Answer by Rohith V for Return All the Element of a List Without Using Range in Python](https://stackoverflow.com/questions/68521523/return-all-the-element-of-a-list-without-using-range-in-python/68521602#68521602)
 - [Answer by Rohith V for Using scanner to get input whether its String or Int](https://stackoverflow.com/questions/68272080/using-scanner-to-get-input-whether-its-string-or-int/68272410#68272410)
 - [Why the entity class is showing pmd warning "Class is suspected to be a DataClass"](https://stackoverflow.com/questions/68222637/why-the-entity-class-is-showing-pmd-warning-class-is-suspected-to-be-a-dataclas)
-- [Answer by Rohith V for How to sort an alpha numeric list in python?](https://stackoverflow.com/questions/68177058/how-to-sort-an-alpha-numeric-list-in-python/68177171#68177171)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

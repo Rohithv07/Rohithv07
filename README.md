@@ -82,11 +82,11 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
+- [Answer by Rohith V for basic IF statement confusion](https://stackoverflow.com/questions/68610123/basic-if-statement-confusion/68610281#68610281)
+- [Answer by Rohith V for incompatible types: int[][] cannot be converted to int](https://stackoverflow.com/questions/68610111/incompatible-types-int-cannot-be-converted-to-int/68610179#68610179)
 - [Answer by Rohith V for How to stop Tomcat from restarting?](https://stackoverflow.com/questions/68601902/how-to-stop-tomcat-from-restarting/68602969#68602969)
 - [Answer by Rohith V for Mockito on JDK16 and Mac OS - Could not initialize plugin](https://stackoverflow.com/questions/68602836/mockito-on-jdk16-and-mac-os-could-not-initialize-plugin/68602891#68602891)
 - [Answer by Rohith V for View All permutation In Java](https://stackoverflow.com/questions/68602654/view-all-permutation-in-java/68602735#68602735)
-- [Why only the logout button disappears after refresh even if the logged in user is stored in localstorage](https://stackoverflow.com/questions/68586960/why-only-the-logout-button-disappears-after-refresh-even-if-the-logged-in-user-i)
-- [Answer by Rohith V for Reverse a sub list](https://stackoverflow.com/questions/68534875/reverse-a-sub-list/68535213#68535213)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

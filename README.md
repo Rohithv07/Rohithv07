@@ -82,11 +82,11 @@
 📩 Stack Overflow Activity
 	
 <!-- STACKOVERFLOW:START -->
+- [Answer by Rohith V for What's i for in Angular CLI command: ng g i student?](https://stackoverflow.com/questions/69475901/whats-i-for-in-angular-cli-command-ng-g-i-student/69475943#69475943)
 - [Answer by Rohith V for Space Complexity of Invert a Binary Tree](https://stackoverflow.com/questions/67989896/space-complexity-of-invert-a-binary-tree/69074744#69074744)
 - [Answer by Rohith V for how to get to the target floor in minimum time if one can move to N + 1, N - 1 and 2 * N in one minute?](https://stackoverflow.com/questions/68653281/how-to-get-to-the-target-floor-in-minimum-time-if-one-can-move-to-n-1-n-1-a/68666997#68666997)
 - [Answer by Rohith V for How to print minimum of numbers in c++ with for loop?](https://stackoverflow.com/questions/68656430/how-to-print-minimum-of-numbers-in-c-with-for-loop/68656726#68656726)
 - [Answer by Rohith V for basic IF statement confusion](https://stackoverflow.com/questions/68610123/basic-if-statement-confusion/68610281#68610281)
-- [Answer by Rohith V for How to stop Tomcat from restarting?](https://stackoverflow.com/questions/68601902/how-to-stop-tomcat-from-restarting/68602969#68602969)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

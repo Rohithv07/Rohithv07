@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode 48 : Rotate Image](https://dev.to/rohithv07/leetcode-48-rotate-image-4kmo)
 - [Leetcode 152 : Maximum Product Subarray](https://dev.to/rohithv07/leetcode-152-maximum-product-subarray-4c6k)
 - [Leetcode 114. Flatten Binary Tree to Linked List](https://dev.to/rohithv07/leetcode-114-flatten-binary-tree-to-linked-list-1ej8)
 - [Leetcode 31 : Next Permutation](https://dev.to/rohithv07/leetcode-31-next-permutation-4g3o)
 - [Leetcode 522 - Longest Uncommon Subsequence II](https://dev.to/rohithv07/leetcode-522-longest-uncommon-subsequence-ii-303p)
-- [Leetcode 5 - Longest Palindromic Substring](https://dev.to/rohithv07/leetcode-5-longest-palindromic-substring-2pg0)
 <!-- BLOG-POST-LIST:END -->
 	
 

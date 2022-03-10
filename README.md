@@ -90,7 +90,7 @@
 <!-- STACKOVERFLOW:END -->
 </ul>
 
-![snake gif](https://github.com/Rohithv07/actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rohithv07/actions/blob/output/github-contribution-grid-snake.gif)
 
 
 <h3>Where to find me</h3>

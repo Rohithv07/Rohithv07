@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Graph Algorithm - Depth First Search](https://dev.to/rohithv07/graph-algorithm-depth-first-search-245k)
 - [Graph Algorithm - Breadth First Search](https://dev.to/rohithv07/graph-algorithm-breadth-first-search-41k9)
 - [Leetcode 48 : Rotate Image](https://dev.to/rohithv07/leetcode-48-rotate-image-4kmo)
 - [Leetcode 152 : Maximum Product Subarray](https://dev.to/rohithv07/leetcode-152-maximum-product-subarray-4c6k)
 - [Leetcode 114. Flatten Binary Tree to Linked List](https://dev.to/rohithv07/leetcode-114-flatten-binary-tree-to-linked-list-1ej8)
-- [Leetcode 31 : Next Permutation](https://dev.to/rohithv07/leetcode-31-next-permutation-4g3o)
 <!-- BLOG-POST-LIST:END -->
 	
 

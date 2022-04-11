@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Graph Algorithm - Bipartite Graph&lpar;DFS&rpar;](https://dev.to/rohithv07/graph-algorithm-bipartite-graphdfs-2248)
 - [Graph Algorithm - Bipartite Graph&lpar;BFS&rpar;](https://dev.to/rohithv07/graph-algorithm-bipartite-graphbfs-4f3b)
 - [Graph Algorithm - Cycle Detection in Undirected Graph using DFS](https://dev.to/rohithv07/graph-algorithm-cycle-detection-in-undirected-graph-using-dfs-233j)
 - [Graph Algorithm - Cycle Detection in Undirected Graph using BFS](https://dev.to/rohithv07/graph-algorithm-cycle-detection-in-undirected-graph-using-bfs-4hee)
 - [Graph Algorithm - Depth First Search](https://dev.to/rohithv07/graph-algorithm-depth-first-search-245k)
-- [Graph Algorithm - Breadth First Search](https://dev.to/rohithv07/graph-algorithm-breadth-first-search-41k9)
 <!-- BLOG-POST-LIST:END -->
 	
 

@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [452. Minimum Number of Arrows to Burst Balloons](https://dev.to/rohithv07/452-minimum-number-of-arrows-to-burst-balloons-2ac5)
 - [2244. Minimum Rounds to Complete All Tasks](https://dev.to/rohithv07/2244-minimum-rounds-to-complete-all-tasks-11a4)
 - [Leetcode 88. Merge Sorted Array](https://dev.to/rohithv07/leetcode-88-merge-sorted-array-58kf)
 - [Graph Algorithm - Cycle Detection in Directed Graph using DFS](https://dev.to/rohithv07/graph-algorithm-cycle-detection-in-directed-graph-using-dfs-4bl5)
 - [My Frequently Used git Commands](https://dev.to/rohithv07/my-frequently-used-git-commands-3g1h)
-- [Github New : View your contributions in 3D, VR and IRL!](https://dev.to/rohithv07/github-new-view-your-contributions-in-3d-vr-and-irl-1oi7)
 <!-- BLOG-POST-LIST:END -->
 	
 

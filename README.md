@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [144. Binary Tree Preorder Traversal](https://dev.to/rohithv07/144-binary-tree-preorder-traversal-20o4)
 - [Leetcode 134 : Gas Station](https://dev.to/rohithv07/leetcode-134-gas-station-5c3k)
 - [Leetcode 1833 : Maximum Ice Cream Bars](https://dev.to/rohithv07/leetcode-1833-maximum-ice-cream-bars-gcj)
 - [452. Minimum Number of Arrows to Burst Balloons](https://dev.to/rohithv07/452-minimum-number-of-arrows-to-burst-balloons-2ac5)
 - [2244. Minimum Rounds to Complete All Tasks](https://dev.to/rohithv07/2244-minimum-rounds-to-complete-all-tasks-11a4)
-- [Leetcode 88. Merge Sorted Array](https://dev.to/rohithv07/leetcode-88-merge-sorted-array-58kf)
 <!-- BLOG-POST-LIST:END -->
 	
 

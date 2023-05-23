@@ -84,9 +84,9 @@
 <!-- STACKOVERFLOW:START -->
 - [Answer by Rohith V for Trying to use a variable as an index but it won&#39;t work](https://stackoverflow.com/questions/76300380/trying-to-use-a-variable-as-an-index-but-it-wont-work/76300406#76300406)
 - [Answer by Rohith V for How to implement max heap with pair using priority queue in java?](https://stackoverflow.com/questions/67058645/how-to-implement-max-heap-with-pair-using-priority-queue-in-java/76300328#76300328)
-- [Answer by Rohith V for Why the if condition is not getting output?](https://stackoverflow.com/questions/76241330/why-the-if-condition-is-not-getting-output/76241364#76241364)
 - [Answer by Rohith V for Function for finding GCD of two numbers](https://stackoverflow.com/questions/72760972/function-for-finding-gcd-of-two-numbers/72761053#72761053)
 - [Answer by Rohith V for Spring Boot - &quot;this.peopleService&quot; is null?](https://stackoverflow.com/questions/72621999/spring-boot-this-peopleservice-is-null/72622101#72622101)
+- [Answer by Rohith V for Sudoku solver using recursion and backtracking](https://stackoverflow.com/questions/71236966/sudoku-solver-using-recursion-and-backtracking/71239206#71239206)
 <!-- STACKOVERFLOW:END -->
 </ul>
 

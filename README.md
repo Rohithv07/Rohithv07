@@ -90,8 +90,6 @@
 <!-- STACKOVERFLOW:END -->
 </ul>
 
-![snake gif](https://github.com/Rohithv07/actions/blob/output/github-contribution-grid-snake.svg)
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{Rohithv07}/count.svg) -->
 
 

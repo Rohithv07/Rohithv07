@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [3488. Closest Equal Element Queries](https://dev.to/rohithv07/3488-closest-equal-element-queries-4e65)
 - [Placeholder Contributor](https://dev.to/rohithv07/placeholder-contributor-4hbl)
 - [Leetcode 100. Same Tree](https://dev.to/rohithv07/leetcode-100-same-tree-3k3j)
 - [144. Binary Tree Preorder Traversal](https://dev.to/rohithv07/144-binary-tree-preorder-traversal-20o4)
 - [Leetcode 134 : Gas Station](https://dev.to/rohithv07/leetcode-134-gas-station-5c3k)
-- [Leetcode 1833 : Maximum Ice Cream Bars](https://dev.to/rohithv07/leetcode-1833-maximum-ice-cream-bars-gcj)
 <!-- BLOG-POST-LIST:END -->
 	
 

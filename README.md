@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 3169. Count Days Without Meetings](https://dev.to/rohithv07/leetcode-3169-count-days-without-meetings-425l)
 - [Leetcode 1976 : Number of Ways to Arrive at Destination](https://dev.to/rohithv07/number-of-ways-to-arrive-at-destination-52im)
 - [Leetcode 213 : House Robber 2](https://dev.to/rohithv07/house-robber-2-54fb)
 - [3488. Closest Equal Element Queries](https://dev.to/rohithv07/3488-closest-equal-element-queries-4e65)
 - [Placeholder Contributor](https://dev.to/rohithv07/placeholder-contributor-4hbl)
-- [Leetcode 100. Same Tree](https://dev.to/rohithv07/leetcode-100-same-tree-3k3j)
 <!-- BLOG-POST-LIST:END -->
 	
 

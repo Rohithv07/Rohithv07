@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [GeeksforGeeks : M Coloring Problem](https://dev.to/rohithv07/geeksforgeeks-m-coloring-problem-d16)
 - [Leetcode 19 : Remove nth Node from end of List](https://dev.to/rohithv07/leetcode-19-remove-nth-node-from-end-of-list-dai)
 - [LeetCode 3169. Count Days Without Meetings](https://dev.to/rohithv07/leetcode-3169-count-days-without-meetings-425l)
 - [Leetcode 1976 : Number of Ways to Arrive at Destination](https://dev.to/rohithv07/number-of-ways-to-arrive-at-destination-52im)
 - [Leetcode 213 : House Robber 2](https://dev.to/rohithv07/house-robber-2-54fb)
-- [3488. Closest Equal Element Queries](https://dev.to/rohithv07/3488-closest-equal-element-queries-4e65)
 <!-- BLOG-POST-LIST:END -->
 	
 

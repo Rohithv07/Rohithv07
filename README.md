@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode 79 : Word Search](https://dev.to/rohithv07/leetcode-79-word-search-4b66)
 - [Leetcode 148 : Sort List](https://dev.to/rohithv07/leetcode-148-sort-list-p8n)
 - [GeeksforGeeks : M Coloring Problem](https://dev.to/rohithv07/geeksforgeeks-m-coloring-problem-d16)
 - [Leetcode 19 : Remove nth Node from end of List](https://dev.to/rohithv07/leetcode-19-remove-nth-node-from-end-of-list-dai)
 - [LeetCode 3169. Count Days Without Meetings](https://dev.to/rohithv07/leetcode-3169-count-days-without-meetings-425l)
-- [Leetcode 1976 : Number of Ways to Arrive at Destination](https://dev.to/rohithv07/number-of-ways-to-arrive-at-destination-52im)
 <!-- BLOG-POST-LIST:END -->
 	
 

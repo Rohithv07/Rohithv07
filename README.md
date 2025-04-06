@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Alien Dictionary](https://dev.to/rohithv07/alien-dictionary-2jjb)
 - [Leetcode 2385. Amount of Time for Binary Tree to Be Infected](https://dev.to/rohithv07/leetcode-2385-amount-of-time-for-binary-tree-to-be-infected-586i)
 - [Leetcode 621. Task Scheduler](https://dev.to/rohithv07/leetcode-621-task-scheduler-59jn)
 - [Leetcode 79 : Word Search](https://dev.to/rohithv07/leetcode-79-word-search-4b66)
 - [Leetcode 148 : Sort List](https://dev.to/rohithv07/leetcode-148-sort-list-p8n)
-- [GeeksforGeeks : M Coloring Problem](https://dev.to/rohithv07/geeksforgeeks-m-coloring-problem-d16)
 <!-- BLOG-POST-LIST:END -->
 	
 

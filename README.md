@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode 1007. Minimum Domino Rotations For Equal Row](https://dev.to/rohithv07/leetcode-1007-minimum-domino-rotations-for-equal-row-4hef)
 - [Leetcode 2302. Count Subarrays With Score Less Than K](https://dev.to/rohithv07/leetcode-2302-count-subarrays-with-score-less-than-k-5die)
 - [Ninjas Training Coding Problem](https://dev.to/rohithv07/ninjas-training-coding-problem-218)
 - [Alien Dictionary](https://dev.to/rohithv07/alien-dictionary-2jjb)
 - [Leetcode 2385. Amount of Time for Binary Tree to Be Infected](https://dev.to/rohithv07/leetcode-2385-amount-of-time-for-binary-tree-to-be-infected-586i)
-- [Leetcode 621. Task Scheduler](https://dev.to/rohithv07/leetcode-621-task-scheduler-59jn)
 <!-- BLOG-POST-LIST:END -->
 	
 

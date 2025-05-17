@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode 138. Copy List with Random Pointer](https://dev.to/rohithv07/leetcode-138-copy-list-with-random-pointer-4ji8)
 - [Leetcode 3. Longest Substring Without Repeating Characters](https://dev.to/rohithv07/leetcode-3-longest-substring-without-repeating-characters-1gj7)
 - [Leetcode 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://dev.to/rohithv07/leetcode-2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros-p22)
 - [Leetcode 1007. Minimum Domino Rotations For Equal Row](https://dev.to/rohithv07/leetcode-1007-minimum-domino-rotations-for-equal-row-4hef)
 - [Leetcode 2302. Count Subarrays With Score Less Than K](https://dev.to/rohithv07/leetcode-2302-count-subarrays-with-score-less-than-k-5die)
-- [Ninjas Training Coding Problem](https://dev.to/rohithv07/ninjas-training-coding-problem-218)
 <!-- BLOG-POST-LIST:END -->
 	
 

@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode 2434 : Using a Robot to Print the Lexicographically Smallest String](https://dev.to/rohithv07/leetcode-2434-using-a-robot-to-print-the-lexicographically-smallest-string-3ih6)
 - [Leetcode 57. Insert Interval](https://dev.to/rohithv07/leetcode-57-insert-interval-ifk)
 - [Leetcode 138. Copy List with Random Pointer](https://dev.to/rohithv07/leetcode-138-copy-list-with-random-pointer-4ji8)
 - [Leetcode 3. Longest Substring Without Repeating Characters](https://dev.to/rohithv07/leetcode-3-longest-substring-without-repeating-characters-1gj7)
 - [Leetcode 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://dev.to/rohithv07/leetcode-2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros-p22)
-- [Leetcode 1007. Minimum Domino Rotations For Equal Row](https://dev.to/rohithv07/leetcode-1007-minimum-domino-rotations-for-equal-row-4hef)
 <!-- BLOG-POST-LIST:END -->
 	
 

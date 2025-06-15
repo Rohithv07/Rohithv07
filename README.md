@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode 1432. Max Difference You Can Get From Changing an Integer](https://dev.to/rohithv07/leetcode-1432-max-difference-you-can-get-from-changing-an-integer-25g7)
+- [Leetcode 1432. Max Difference You Can Get From Changing an Integer](https://dev.to/rohithv07/leetcode-1432-max-difference-you-can-get-from-changing-an-integer-4ko1)
 - [Leetcode 2434 : Using a Robot to Print the Lexicographically Smallest String](https://dev.to/rohithv07/leetcode-2434-using-a-robot-to-print-the-lexicographically-smallest-string-3ih6)
 - [Leetcode 57. Insert Interval](https://dev.to/rohithv07/leetcode-57-insert-interval-ifk)
 - [Leetcode 138. Copy List with Random Pointer](https://dev.to/rohithv07/leetcode-138-copy-list-with-random-pointer-4ji8)
-- [Leetcode 3. Longest Substring Without Repeating Characters](https://dev.to/rohithv07/leetcode-3-longest-substring-without-repeating-characters-1gj7)
-- [Leetcode 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](https://dev.to/rohithv07/leetcode-2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros-p22)
 <!-- BLOG-POST-LIST:END -->
 	
 

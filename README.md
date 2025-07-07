@@ -71,11 +71,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Next Greater Element in Circular Array](https://dev.to/rohithv07/next-greater-element-in-circular-array-1g6k)
 - [Maximum Score From Subarray Mins](https://dev.to/rohithv07/maximum-score-from-subarray-mins-4op6)
 - [Leetcode 2099. Find Subsequence of Length K With the Largest Sum](https://dev.to/rohithv07/leetcode-2099-find-subsequence-of-length-k-with-the-largest-sum-2c8e)
 - [Leetcode 1432. Max Difference You Can Get From Changing an Integer](https://dev.to/rohithv07/leetcode-1432-max-difference-you-can-get-from-changing-an-integer-3g2g)
 - [Leetcode 1432. Max Difference You Can Get From Changing an Integer](https://dev.to/rohithv07/leetcode-1432-max-difference-you-can-get-from-changing-an-integer-25g7)
-- [Leetcode 1432. Max Difference You Can Get From Changing an Integer](https://dev.to/rohithv07/leetcode-1432-max-difference-you-can-get-from-changing-an-integer-4ko1)
 <!-- BLOG-POST-LIST:END -->
 	
 

@@ -64,11 +64,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Minimalism Defying Gravity: My Entry for the Google AI Portfolio Challenge 🚀](https://dev.to/rohithv07/minimalism-defying-gravity-my-entry-for-the-google-ai-portfolio-challenge-1i6l)
 - [Automating Java Builds with GitHub Actions](https://dev.to/rohithv07/automating-java-builds-with-github-actions-4c0m)
 - [Java Solution: Redundant Parenthesis Detection O&lpar;N&rpar;](https://dev.to/rohithv07/java-solution-redundant-parenthesis-detection-on-h17)
 - [Leetcode 3613. Minimize Maximum Component Cost](https://dev.to/rohithv07/leetcode-3613-minimize-maximum-component-cost-45ah)
 - [Leetcode 1751. Maximum Number of Events That Can Be Attended II](https://dev.to/rohithv07/leetcode-1751-maximum-number-of-events-that-can-be-attended-ii-4ol6)
-- [Next Greater Element in Circular Array](https://dev.to/rohithv07/next-greater-element-in-circular-array-1g6k)
 <!-- BLOG-POST-LIST:END -->
 	
 

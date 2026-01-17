@@ -64,11 +64,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Java Solution: Redundant Parenthesis Detection O&lpar;N&rpar;](https://dev.to/rohithv07/java-solution-redundant-parenthesis-detection-on-h17)
 - [Leetcode 3613. Minimize Maximum Component Cost](https://dev.to/rohithv07/leetcode-3613-minimize-maximum-component-cost-45ah)
 - [Leetcode 1751. Maximum Number of Events That Can Be Attended II](https://dev.to/rohithv07/leetcode-1751-maximum-number-of-events-that-can-be-attended-ii-4ol6)
 - [Next Greater Element in Circular Array](https://dev.to/rohithv07/next-greater-element-in-circular-array-1g6k)
 - [Maximum Score From Subarray Mins](https://dev.to/rohithv07/maximum-score-from-subarray-mins-4op6)
-- [Leetcode 2099. Find Subsequence of Length K With the Largest Sum](https://dev.to/rohithv07/leetcode-2099-find-subsequence-of-length-k-with-the-largest-sum-2c8e)
 <!-- BLOG-POST-LIST:END -->
 	
 

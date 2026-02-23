@@ -64,11 +64,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Building a Full-Stack Bookkeeping Ledger Using Antigravity](https://dev.to/rohithv07/building-a-full-stack-bookkeeping-ledger-using-antigravity-fd0)
 - [Minimalism Defying Gravity: My Entry for the Google AI Portfolio Challenge 🚀](https://dev.to/rohithv07/minimalism-defying-gravity-my-entry-for-the-google-ai-portfolio-challenge-1i6l)
 - [Automating Java Builds with GitHub Actions](https://dev.to/rohithv07/automating-java-builds-with-github-actions-4c0m)
 - [Java Solution: Redundant Parenthesis Detection O&lpar;N&rpar;](https://dev.to/rohithv07/java-solution-redundant-parenthesis-detection-on-h17)
 - [Leetcode 3613. Minimize Maximum Component Cost](https://dev.to/rohithv07/leetcode-3613-minimize-maximum-component-cost-45ah)
-- [Leetcode 1751. Maximum Number of Events That Can Be Attended II](https://dev.to/rohithv07/leetcode-1751-maximum-number-of-events-that-can-be-attended-ii-4ol6)
 <!-- BLOG-POST-LIST:END -->
 	
 

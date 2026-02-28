@@ -64,11 +64,11 @@
 📩 Latest Blog Posts
 	
 <!-- BLOG-POST-LIST:START -->
+- [Track My Cash: Building a Secure, Decoupled Ledger with Spring Boot, Vanilla JS, and Gemini](https://dev.to/rohithv07/track-my-cash-building-a-secure-decoupled-ledger-with-spring-boot-vanilla-js-and-gemini-2d79)
 - [Building a Full-Stack Bookkeeping Ledger Using Antigravity](https://dev.to/rohithv07/building-a-full-stack-bookkeeping-ledger-using-antigravity-fd0)
 - [Minimalism Defying Gravity: My Entry for the Google AI Portfolio Challenge 🚀](https://dev.to/rohithv07/minimalism-defying-gravity-my-entry-for-the-google-ai-portfolio-challenge-1i6l)
 - [Automating Java Builds with GitHub Actions](https://dev.to/rohithv07/automating-java-builds-with-github-actions-4c0m)
 - [Java Solution: Redundant Parenthesis Detection O&lpar;N&rpar;](https://dev.to/rohithv07/java-solution-redundant-parenthesis-detection-on-h17)
-- [Leetcode 3613. Minimize Maximum Component Cost](https://dev.to/rohithv07/leetcode-3613-minimize-maximum-component-cost-45ah)
 <!-- BLOG-POST-LIST:END -->
 	
 
